@@ -37,4 +37,4 @@ THEN I should have proper build scripts for a webpack application
 
 # Deployment
 
-[Heroku Application](ww.google.com)
+[Heroku Application](https://pats-text-editor-pwa-70181b6eca67.herokuapp.com/)
